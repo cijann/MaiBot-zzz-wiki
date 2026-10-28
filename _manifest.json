@@ -6,7 +6,8 @@
   "name": "绝区零 Wiki",
   "description": "绝区零 BWIKI 查询：角色、装备、技能、养成、图片卡片与LLM工具。",
   "author": {
-    "name": "cijann"
+    "name": "cijann",
+    "url": "https://github.com/cijann"
   },
   "license": "AGPL-3.0",
   "urls": {"repository": "https://github.com/cijann/MaiBot-zzz-wiki"},
