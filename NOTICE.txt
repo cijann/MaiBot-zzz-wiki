@@ -1,0 +1,8 @@
+Copyright (C) 2026 cijann. Code: AGPL-3.0.
+Design and MaiBot SDK integration reference: senhan1337/MaiBot-blhx-wiki (AGPL-3.0),
+https://github.com/senhan1337/MaiBot-blhx-wiki
+Game content and images are not covered by the code license. Rights remain with their owners.
+BWIKI pages: https://wiki.biligame.com/zzz/ ; retain page attribution and applicable content license.
+Noto Sans SC font: Copyright 2014-2021 Adobe (http://www.adobe.com/),
+with Reserved Font Name Source. Licensed under SIL OFL 1.1; see assets/OFL.txt.
+Font source: https://github.com/notofonts/noto-cjk

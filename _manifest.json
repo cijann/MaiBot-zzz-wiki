@@ -1,0 +1,45 @@
+{
+  "manifest_version": 2,
+  "id": "io.github.cijann.zzz-wiki-maibot",
+  "version": "0.1.0",
+  "plugin_type": "tool",
+  "name": "绝区零 Wiki",
+  "description": "绝区零 BWIKI 查询：角色、装备、技能、养成、图片卡片与LLM工具。",
+  "author": {
+    "name": "cijann"
+  },
+  "license": "AGPL-3.0",
+  "urls": {"repository": "https://github.com/cijann/MaiBot-zzz-wiki"},
+  "host_application": {
+    "min_version": "0.10.0",
+    "max_version": "999.999.999"
+  },
+  "sdk": {
+    "min_version": "2.6.0",
+    "max_version": "999.999.999"
+  },
+  "dependencies": [
+    {
+      "type": "python_package",
+      "name": "httpx",
+      "version_spec": ">=0.24.0"
+    },
+    {
+      "type": "python_package",
+      "name": "beautifulsoup4",
+      "version_spec": ">=4.12.0"
+    },
+    {
+      "type": "python_package",
+      "name": "Pillow",
+      "version_spec": ">=10.0.0"
+    }
+  ],
+  "capabilities": [
+    "send.text",
+    "send.image"
+  ],
+  "i18n": {
+    "default_locale": "zh-CN"
+  }
+}
