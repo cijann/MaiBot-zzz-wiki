@@ -10,14 +10,19 @@
     "url": "https://github.com/cijann"
   },
   "license": "AGPL-3.0",
-  "urls": {"repository": "https://github.com/cijann/MaiBot-zzz-wiki"},
+  "urls": {
+    "repository": "https://github.com/cijann/MaiBot-zzz-wiki",
+    "homepage": "https://github.com/cijann/MaiBot-zzz-wiki",
+    "documentation": "https://github.com/cijann/MaiBot-zzz-wiki/blob/main/README.md",
+    "issues": "https://github.com/cijann/MaiBot-zzz-wiki/issues"
+  },
   "host_application": {
     "min_version": "0.10.0",
-    "max_version": "999.999.999"
+    "max_version": "9.9.999"
   },
   "sdk": {
     "min_version": "2.6.0",
-    "max_version": "999.999.999"
+    "max_version": "9.9.999"
   },
   "dependencies": [
     {
